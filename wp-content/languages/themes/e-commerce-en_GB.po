@@ -1,0 +1,349 @@
+# Translation of Themes - E-Commerce in English (UK)
+# This file is distributed under the same license as the Themes - E-Commerce package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-30 16:43:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - E-Commerce\n"
+
+#. Description of the plugin/theme
+msgid "E-Commerce is a Simple, Clean and Responsive eCommerce WordPress Theme by Catch Themes. It is designed especially to work with a popular eCommerce plugin \"WooCommerce\". It is based on responsive web design where each element has been carefully configured for perfect display on all devices and platforms. Theme provides a minimalist and modern look make your eCommerce store stand out. Create a beautiful, yet professional eCommerce WordPress store in no time! eCommerce WordPress theme is super easy to use with unconventional out-of-the-box features."
+msgstr "E-Commerce is a Simple, Clean and Responsive eCommerce WordPress Theme by Catch Themes. It is designed especially to work with the popular eCommerce plugin \"WooCommerce\". It is based on responsive web design where each element has been carefully configured for perfect display on all devices and platforms. The theme provides a minimalist and modern look to make your eCommerce store stand out. Create a beautiful, yet professional eCommerce WordPress store in no time! eCommerce WordPress theme is super easy to use with unconventional out-of-the-box features."
+
+#. Theme Name of the plugin/theme
+msgid "E-Commerce"
+msgstr "E-Commerce"
+
+#: inc/customizer.php:67
+msgid "Upgrade To Pro &raquo;"
+msgstr "Upgrade To Pro &raquo;"
+
+#: inc/template-tags.php:293
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+#: sidebar.php:21
+msgid "This is the Primary Sidebar Widget Area."
+msgstr "This is the Primary Sidebar Widget Area."
+
+#: sidebar.php:18
+msgid "Primary Sidebar Widget Area"
+msgstr "Primary Sidebar Widget Area"
+
+#: sidebar.php:22
+msgid "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+msgstr "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:25
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:30
+#: template-parts/content.php:32
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: inc/template-tags.php:295
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: inc/woocommerce.php:47
+msgid "View cart"
+msgstr "View basket"
+
+#: inc/woocommerce.php:48
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:181 sidebar.php:35
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:175
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:153
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:151
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:149
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:147
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:145
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:143
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: inc/template-tags.php:126 template-parts/content-page.php:26
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/customizer.php:40
+msgid "Enter Custom CSS"
+msgstr "Enter Custom CSS"
+
+#: inc/customizer.php:31
+msgid "Custom CSS Options"
+msgstr "Custom CSS Options"
+
+#: inc/customizer.php:28
+msgid "Custom/Inline CSS"
+msgstr "Custom/Inline CSS"
+
+#: inc/customizer.php:23
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: inc/customizer.php:20
+msgid "Basic theme Options"
+msgstr "Basic theme Options"
+
+#. Translators: If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/structure.php:56
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:156
+msgid "Comment"
+msgstr "Comment"
+
+#: functions.php:155
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:154
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:153
+msgid "Name"
+msgstr "Name"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:65
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Theme URI of the plugin/theme
+msgid "https://catchthemes.com/themes/e-commerce/"
+msgstr "https://catchthemes.com/themes/e-commerce/"
+
+#. Author of the plugin/theme
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Author URI of the plugin/theme
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"

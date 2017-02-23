@@ -1,0 +1,265 @@
+== CHANGE LOG ==
+
+= Version 2.1.8 = 
+* Removed menu bar if the menu is not defined
+* Improved header cart layout
+
+= Version 2.1.7 = 
+* Added one click demo import support
+* Better categories check
+
+= Version 2.1.6 = 
+* Added support for YITH ajax search Premium plugin
+* Added support for Ajax Search for WooCommerce plugin
+* Updated shortcodes generator - reduced load times
+
+= Version 2.1.5 = 
+* Added YITH ajax search plugin support
+* Fixed social default text
+* Fixed shortcodes plugin 500 error 
+
+= Version 2.1.4 = 
+* Updated TWP Shortcodes genarator plugin
+
+= Version 2.1.3 = 
+* Updated shortcodes functions
+* Fixed shortcodes functions if the WooCommerce plugin is not installed
+* Fixed errors if product categories or products does not exist
+
+= Version 2.1.2 = 
+* Added WooCommerce breadcrumb option
+* Reduced Product description space
+* Small CSS tweaks
+* Added link to homepage category products title
+
+= Version 2.1.1 = 
+* Added Kirki announcement to customizer
+* Added option to change columns in footer widget area
+* Small compatibility tweaks
+
+= Version 2.1.0 = 
+* Added new homepage template - product search with background image
+* Added new theme option - product shadow
+* Added new theme section - sevices
+* Added new homepage template - masonry
+* Fixed header style in homepage demo
+* Fixed homepages padding
+* Fixed carousel navigation Firefox bug
+* Added new theme info page
+
+= Version 2.0.1 = 
+* Replaced breadcrumb page slug with title
+* Added demo homepage style
+* Added demo theme option
+* Updated theme info
+
+= Version 2.0.0 = 
+* Fixed searchform button position
+* Fixed missing translations
+* Fixed breadcrumb child theme issue
+* Search bar is now by default enabled
+* Updated main menu function
+* Added czech language
+* Fixed email social icon
+
+= Version 1.9.9 = 
+* Updated shortcodes functions
+
+= Version 1.9.8 = 
+* Updated homepage top categories CSS styles
+* Added missing download icon to my account page
+
+= Version 1.9.7 = 
+* Fixed sidebar language issue
+* Updated products by category section text
+
+= Version 1.9.6 = 
+* Fixed empty help boxes issue
+* Replaced post navigation with WP core function
+
+= Version 1.9.5 = 
+* Updated breadcrumbs
+* Updated theme functions
+* Replaced pagination with WP core function
+* Updated searchbar function
+* Cleared code
+* Updated language
+* Updated archive title
+
+= Version 1.9.4 = 
+* Fixed site title on mobile devices
+
+= Version 1.9.3 = 
+* Updated custom tabs functions
+* Added 2 product styles
+* Added 2 main menu styles
+* Minor CSS updates
+* Fixed missing text in custom codes buttons
+
+= Version 1.9.2 = 
+* Added supportd for WooCommerce 2.6.0
+* Removed custom my account page (my account page is controlled by WooCommerce now)
+* Added my account page custom style
+
+= Version 1.9.1 = 
+* Added theme update notifier
+* Added orderby to products carousel
+* Added new shortcode - custom products carousel
+* Removed closing tag in multiple products shortcode
+
+= Version 1.9.0 = 
+* Added new homepage section - custom category
+* Added new theme option - product hover effect - shadow
+* Added new header style
+* Fixed wishlist counter position
+
+= Version 1.8.2 = 
+* Added new theme options - disable header cart, disable My Accoutn/Login link
+
+= Version 1.8.1 = 
+* Updated fontawesome icons to v4.6.3
+* Added new social icons set
+
+= Version 1.8.0 = 
+* Added footer menu
+* Added new option to change product meta
+* Reduced "Proceed to Checkout" button size
+* Added support for Max Mega Menu plugin
+
+= Version 1.7.1 = 
+* Improved code structure
+
+= Version 1.7.0 = 
+* Added new theme option - logo/title spacing
+* Added new theme header layout and option
+* Fixed buttons and woocommerce columns options
+
+= Version 1.6.2 = 
+* Fixed Kirki 2.3.1 customizer issue
+* Re-styled the code options
+
+= Version 1.6.1 = 
+* Fixed empty carousels js errors
+* Moved the buttons styling to WooCommerce section
+
+= Version 1.6.0 = 
+* Added 2 new product buttons styles - boxed and rounded
+* Fixed Wishlist counter position
+
+= Version 1.5.3 = 
+* Improved help boxes icon select
+* Restyled toparea on hover
+* Added transparent background to newsletter form
+
+= Version 1.5.2 = 
+* Updated fontawesome icons to v4.5
+
+= Version 1.5.1 = 
+* Fixed settings error
+* Updated language
+
+= Version 1.5.0 = 
+* Added homepage with carousel
+* Added homepage with slider
+* Added option to select menu alignment (left/center)
+* Updated menu/searchbar border
+ 
+= Version 1.4.0 = 
+* Fixed variation label background
+* Added new widget area under top bar
+* Added fullwidth template
+* Added sitemap template
+* Added header class
+* Added widget titles class
+
+= Version 1.3.3 = 
+* Fixed shop archive columns option
+
+= Version 1.3.2 = 
+* Fixed related posts without thumbnail
+* Fixed tags when last element of content is floating
+
+= Version 1.3.1 = 
+* Improved shortcodes functions
+
+= Version 1.3.0 = 
+* Updated shortcodes plugin
+* Replaced text field with slider in shortcodes plugin
+* Language fix in shortcodes plugin
+* Fixed empty paragraph in shortcodes
+* Improved category carousel shortcodes
+* Fixed homepage with sidebar sidebar issue
+
+= Version 1.2.5 = 
+* Fixed sticky menu on mobile devices
+* Fixed shipping ratio buttons
+* Improved header cart responsiveness
+* Improved shop by category section on mobile devices
+* Improved logo width and height on mobile devices
+
+= Version 1.2.4 = 
+* Fixed WooCommerce 2.5.1 archive columns 768px width
+
+= Version 1.2.3 =
+* Improved top area
+* Improved Custom CSS option
+* Improved blog posts titles
+
+= Version 1.2.2 =
+* Fixed sanitize_callback error
+* Removed Google subsets - unnecessary
+
+= Version 1.2.1 =
+* Added carousel preloader
+* WooCommerce 2.5.0 support
+
+= Version 1.2 =
+* Fixed content shortcodes issue
+* Added sale offer countdown
+* Added new shortcode block - Custom category carousel
+
+= Version 1.1.2 =
+* Fixed menu on iPad
+* Fixed sale box
+
+= Version 1.1.1 =
+* Fixed min width on mobile devices
+* Improved searchbar on mobile devices
+
+= Version 1.1.0 =
+* Added footer credit editor
+* Added option to enable searchbar on mobile devices
+* Added sticky menu option
+* Submenu have now same color as site
+* Updated language
+* Fixed site title margin
+* Added theme info page
+
+= Version 1.0.5 =
+* Fixed error when searchbar is activated and no categories are selected
+
+= Version 1.0.4 =
+* Added new shortcodes - row, clear
+* Added option for Google analytics code
+* Added custom CSS box
+* New media shortcode option
+
+= Version 1.0.3 =
+* Updated Schema markup
+* Fixed shop by category select
+
+= Version 1.0.2 =
+* Updated shortcodes
+* Fixed some CSS styles
+* Added ability to change my account layout
+
+= Version 1.0.1 =
+* Updated widget padding
+* Updated WooCommerce widget styling
+* Added Wishlist support
+* Added ability to change number of products displayed per page
+* Added ability to change archive products per row
+* Fixed breadcrumb image archive issue
+
+= Version 1.0 =
+* Initial release

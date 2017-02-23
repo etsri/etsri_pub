@@ -1,0 +1,56 @@
+/*
+ * Custom product style 2 css
+ */
+
+.woocommerce ul.products li.product {
+    padding: 10px;
+}
+.maxstore-has-gallery .secondary-image {
+    padding: 10px;
+}
+.woocommerce ul.products li.product h3 {
+    border-bottom: 1px solid #e6e6e6;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.woocommerce ul.products li.product.product-category h3 {
+    border: none;
+    margin-bottom: 0;
+}
+.woocommerce ul.products li.product .price {
+    margin-bottom: 0;
+    float: none;
+    width: auto;
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+.woocommerce ul.products li.product .button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    left: initial;
+    top: initial;
+    opacity: 1;
+    float: none;
+}
+.woocommerce ul.products li.product:hover .button {
+    left: initial;
+    transform: none;
+}
+.woocommerce ul.products li.product .button:before {
+    text-indent: 0;
+}
+.add-to-wishlist-custom {
+    top: 35%;
+}
+.woocommerce .products .star-rating {
+    position: relative;
+    top: initial;
+    right: initial;
+    opacity: 1;
+    margin: 0 auto;
+}
+.woocommerce ul.products li.product:hover .star-rating {
+    top: initial;
+    right: initial;
+}

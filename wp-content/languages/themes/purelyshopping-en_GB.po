@@ -1,0 +1,395 @@
+# Translation of Themes - purelyShopping in English (UK)
+# This file is distributed under the same license as the Themes - purelyShopping package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-02 12:34:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - purelyShopping\n"
+
+#. Description of the plugin/theme
+msgid "A theme for your every shopping need! Uses WooCommerce as optional plugin to fully replicate screenshot look."
+msgstr "A theme for your every shopping need! Uses WooCommerce as optional plugin to fully replicate screenshot look."
+
+#. Theme Name of the plugin/theme
+msgid "purelyShopping"
+msgstr "purelyShopping"
+
+#: inc/customizer.php:47
+msgid "Navigation BG Color"
+msgstr "Navigation BG Colour"
+
+#: inc/customizer.php:43 inc/customizer.php:48
+msgid "Override default styling"
+msgstr "Override default styling"
+
+#: inc/customizer.php:42
+msgid "Navigation Link Color"
+msgstr "Navigation Link Colour"
+
+#: inc/customizer.php:26
+msgid "Show topbar?"
+msgstr "Show topbar?"
+
+#: inc/customizer.php:19
+msgid "PurelyShopping Settings"
+msgstr "PurelyShopping Settings"
+
+#: inc/purelyshopping_custom.php:30
+msgid "Skylar"
+msgstr "Skylar"
+
+#: inc/purelyshopping_custom.php:32 inc/purelyshopping_custom.php:41
+#: inc/purelyshopping_custom.php:49 inc/purelyshopping_custom.php:57
+#: inc/purelyshopping_custom.php:66 inc/purelyshopping_custom.php:75
+#: inc/purelyshopping_custom.php:84
+msgid "See Demo"
+msgstr "See Demo"
+
+#: inc/purelyshopping_custom.php:39
+msgid "Emporium"
+msgstr "Emporium"
+
+#: inc/purelyshopping_custom.php:48
+msgid "stella"
+msgstr "stella"
+
+#: inc/purelyshopping_custom.php:55 inc/purelyshopping_custom.php:73
+msgid "purelyshopping"
+msgstr "purelyshopping"
+
+#: inc/purelyshopping_custom.php:64
+msgid "PurelyBlue"
+msgstr "PurelyBlue"
+
+#: inc/purelyshopping_custom.php:82
+msgid "Selma"
+msgstr "Selma"
+
+#. Translators: If there are characters in your language that are not supported
+#. by the Google fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:182
+msgctxt "Font One: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:183
+msgctxt "Font Two: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/purelyshopping_custom.php:3
+msgid "More Themes"
+msgstr "More Themes"
+
+#: inc/purelyshopping_custom.php:12
+msgid "More themes by the author"
+msgstr "More themes by the author"
+
+#: inc/purelyshopping_custom.php:13
+msgid "Thanks for downloading one of our themes, we really appreciate it!"
+msgstr "Thanks for downloading one of our themes, we really appreciate it!"
+
+#: inc/purelyshopping_custom.php:21
+msgid "Sylvia"
+msgstr "Sylvia"
+
+#: inc/purelyshopping_custom.php:23
+msgid "Read More"
+msgstr "Read More"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:181
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:175
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:153
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:151
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:149
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:147
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:145
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:143
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:161
+msgid "Products Widget after content"
+msgstr "Products Widget after content"
+
+#: functions.php:151
+msgid "Products Widget before content"
+msgstr "Products Widget before content"
+
+#: functions.php:141
+msgid "Custom Content"
+msgstr "Custom Content"
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:49 functions.php:131
+msgid "Top Menu Right"
+msgstr "Top Menu Right"
+
+#: functions.php:48 functions.php:121
+msgid "Top Menu Left"
+msgstr "Top Menu Left"
+
+#: functions.php:47 header.php:54
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. translators: %s: Name of current post
+#: content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-excerpt.php:30 content-page.php:25 inc/template-tags.php:126
+msgid "Edit"
+msgstr "Edit"
+
+#: content-excerpt.php:23 content-page.php:18 content-single.php:20
+#: content.php:29
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:39 comments.php:60
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:38 comments.php:59
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:35 comments.php:56
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. #-#-#-#-#  purelyshopping.pot (purelyShopping 1.0.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: inc/purelyshopping_custom.php:19 inc/purelyshopping_custom.php:23
+#: inc/purelyshopping_custom.php:28 inc/purelyshopping_custom.php:32
+#: inc/purelyshopping_custom.php:37 inc/purelyshopping_custom.php:41
+#: inc/purelyshopping_custom.php:46 inc/purelyshopping_custom.php:49
+#: inc/purelyshopping_custom.php:53 inc/purelyshopping_custom.php:57
+#: inc/purelyshopping_custom.php:62 inc/purelyshopping_custom.php:66
+#: inc/purelyshopping_custom.php:71 inc/purelyshopping_custom.php:75
+#: inc/purelyshopping_custom.php:80 inc/purelyshopping_custom.php:84
+msgid "http://www.purelythemes.com"
+msgstr "http://www.purelythemes.com"
+
+#. Author of the plugin/theme
+msgid "PurelyThemes"
+msgstr "PurelyThemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.purelythemes.com/shopping"
+msgstr "http://www.purelythemes.com/shopping"
